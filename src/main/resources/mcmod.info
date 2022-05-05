@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "description": "forge example mod by sdxqw",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "sdxqw"
+    ],
+    "credits": "Forge,FML,sdxqw",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

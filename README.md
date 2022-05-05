@@ -12,7 +12,6 @@
     <br>
     <img src="https://img.shields.io/github/v/release/sdxqw/ForgeTemplate.svg" alt="Release"/>
     <img src="https://img.shields.io/github/languages/code-size/sdxqw/ForgeTemplate" alt="GitHub code size in bytes"/>
-    <img src="https://img.shields.io/tokei/lines/github/sdxqw/ForgeTemplate"/>
     <br>
 </div>
 

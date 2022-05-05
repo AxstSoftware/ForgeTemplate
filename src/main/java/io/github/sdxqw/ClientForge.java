@@ -19,7 +19,7 @@ public class ClientForge {
         MinecraftForge.EVENT_BUS.register(this);
         if (Desktop.isDesktopSupported() && Desktop.getDesktop().isSupported(Desktop.Action.BROWSE)) {
             try {
-                Desktop.getDesktop().browse(new URI("https://github.com/sdxqw/ForgeMixins"));
+                Desktop.getDesktop().browse(new URI("https://github.com/sdxqw/ForgeTemplate"));
             } catch (IOException | URISyntaxException e) {
                 e.printStackTrace();
             }

@@ -19,7 +19,7 @@
     <a href="#get-start">Get start</a> •
     <a href="#key-features">Key Features</a> •
     <a href="#thanks">Thanks</a> •
-    <a href="#contributing">Contributing</a> •
+    <a href="#contributing">Contributing</a>
 </h3>
 
 ## Get start
